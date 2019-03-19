@@ -1,3 +1,4 @@
+#https://wiki.python.org.br/EstruturaSequencial
 class Number:
     def isnumber(self, value):
         try:

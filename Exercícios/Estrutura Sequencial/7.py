@@ -1,3 +1,4 @@
+#https://wiki.python.org.br/EstruturaSequencial
 from number import Number
 
 num = Number()
